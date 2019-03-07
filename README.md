@@ -15,18 +15,19 @@
 最近被失业一逼倒好了，认真的思考了技术上的事情来，重新整起来。先认真学习了一波：认识了什么是《css 禅意花园》；html语义化标签；SPA路由的概念与现有的实现手段；虚拟DOM的原理和优点；Layui（这家伙理念有点和我的接近，但又不是）；Javascript的运行机制；计时器，事件，携程，多线程，es6的模块化，文件加载机制，前端规范的演变等等。恩很好，静下来认真思考。
 
 现在javascript世界已经非常丰富多彩，作为一个合格的前端必须要知道的东西：
-1 es6 TypeScript nodejs
-2 npm Grunt Gulp Parcel Rollup Webpack 
-3 bable 
-4 正则
-5 css less sass
-6 webpack gullup
-7 jq Angular Vue React
-8 Bootstrap Element-ui Ant-ui iView-ui
-9 微信小程序
-10 Electron NWjs ReactNative WEEX uni-app
-11 Socket.IO  Express  koa  ThinkJS 
-...
+
+- 1 es6 TypeScript nodejs  
+- 2 npm Grunt Gulp Parcel Rollup Webpack  
+- 3 bable  
+- 4 正则  
+- 5 css less sass  
+- 6 webpack gullup  
+- 7 jq Angular Vue React  
+- 8 Bootstrap Element-ui Ant-ui iView-ui  
+- 9 微信小程序  
+- 10 Electron NWjs ReactNative WEEX uni-app 
+- 11 Socket.IO  Express  koa  ThinkJS 
+- ...  
 
 是不是看着都头皮发麻，要知道我刚刚看到npm上Packages就有925,766，刷新一下页面变成925,840了，更别说github了。
 不管怎么样前端程序始终要认真搞的是javascript es6 html css基础，natural就是基于基础的开发框架。
