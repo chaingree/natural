@@ -29,8 +29,8 @@
 - 11 Socket.IO  Express  koa  ThinkJS 
 - ...  
 
-是不是看着都头皮发麻，要知道我刚刚看到npm上Packages就有925,766，刷新一下页面变成925,840了，更别说github了。
+是不是看着都头皮发麻，要知道我刚刚看到npm上Packages就有925,766，刷新一下页面变成925,840了，更别说github了。  
 不管怎么样前端程序始终要认真搞的是javascript es6 html css基础，natural就是基于基础的开发框架。
 
-npm官网：https://www.npmjs.com/
-参考资料：https://cloud.tencent.com/developer/section/1490233
+npm官网：https://www.npmjs.com/  
+参考资料：https://cloud.tencent.com/developer/section/1490233  
